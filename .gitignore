@@ -1,0 +1,16 @@
+
+# Node.js dependencies
+node_modules/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+coverage/
+
+# Logs
+npm-debug.log*
